@@ -180,19 +180,3 @@ For platform teams and CTOs, the message is clear: don’t stop at orchestration
 ---
 
 _Ready to bring governance to your AI agents? [Learn more about Omnithium’s unified control plane](https://omnithium.ai) or reach out to our team for a demo._
-
----
-
-*Originally published on the [Omnithium Blog](https://omnithium.ai/blog/enterprise-ai-agents-unified-control-plane).*
-
-📚 Explore more articles on the [Omnithium Blog](https://omnithium.ai/blog)
-
-🚀 [Get started with Omnithium](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
-
----
-
-**[Omnithium](https://omnithium.ai)** -- the AI agent platform for enterprises.
-
-📚 [Explore the Omnithium Blog](https://omnithium.ai/blog) for more insights.
-
-🚀 [Get started](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
